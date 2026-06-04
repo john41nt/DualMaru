@@ -1,7 +1,7 @@
-﻿Title,Developer,Source,O button icon support,O button confirmation support
-SUPER ROBOT WARS Y,Bandai Namco,Steam,Yes,Manual
-Persona 5 Royal,ATLUS,Steam,Yes,Manual
-STAR OCEAN THE SECOND STORY R,Square Enix,Steam Demo,Yes,Manual
-Heavy Rain,Quantic Dream,Steam,Yes,No
+﻿Title,Developer,Source,O button icon,O button confirmation
+SUPER ROBOT WARS Y,Bandai Namco,Steam,Auto,Manual
+Persona 5 Royal,ATLUS,Steam,Auto,Manual
+STAR OCEAN THE SECOND STORY R,Square Enix,Steam Demo,Auto,Manual
+Heavy Rain,Quantic Dream,Steam,Auto,No
 DEATH STRANDING DIRECTOR'S CUT,KOJIMA PRODUCTIONS,Epic Games,Yes,Manual
-Cuphead,Studio MDHR,Steam,Yes,No
+Cuphead,Studio MDHR,Steam,Auto,No
